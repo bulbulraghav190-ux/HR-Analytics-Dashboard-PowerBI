@@ -69,10 +69,6 @@ While working on this project, I learned how to:
 * Build an interactive dashboard
 * Present data in a simple and understandable way
 
-## 🖼️ Dashboard Preview
-
-![HR Analytics Dashboard](HR%20ANALYTICS%20DASHBOARD.png)
-
 ## 📁 Files in this Repository
 
 * `HR ANALYTICS DASHBOARD.pdf` — Dashboard preview
